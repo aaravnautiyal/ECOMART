@@ -1,0 +1,326 @@
+[
+  {
+    "id": 3,
+    "name": "Samsung Neo QLED 65-Inch Smart TV",
+    "description": "65-inch 4K UHD Smart TV with Neo QLED display and low energy usage",
+    "category": "electronics",
+    "price": 59845.26,
+    "rating": 4.5,
+    "ecoscore": 56.00,
+  
+  },
+  {
+    "id": 17,
+    "name": "Samsung 253L Inverter Frost-Free Double Door Refrigerator",
+    "description": "Energy-efficient digital inverter refrigerator with 2-star rating",
+    "category": "electronics",
+    "price": 42385.50,
+    "rating": 4.3,
+    "ecoscore": 23.00,
+    
+  },
+  {
+    "id": 18,
+    "name": "LG 260L Smart Inverter Frost-Free Refrigerator",
+    "description": "Frost-free refrigerator with Smart Inverter Compressor and auto defrost",
+    "category": "electronics",
+    "price": 37120.75,
+    "ecoscore": 42.0
+  },
+  {
+    "id": 19,
+    "name": "Whirlpool 340L Multi-Door Refrigerator",
+    "description": "Triple door Refrigerator with 6th Sense ActiveFresh tech and eco mode",
+    "category": "electronics",
+    "price": 61745.80,
+    "ecoscore": 72.0
+  },
+  {
+    "id": 20,
+    "name": "Godrej 236L Convertible Refrigerator",
+    "description": "Convertible single door inverter Refrigerator with minimal energy usage",
+    "category": "electronics",
+    "price": 35899.20,
+    "ecoscore": 4.0
+  },
+  {
+    "id": 21,
+    "name": "Haier 320L 3-Star Inverter Refrigerator",
+    "description": "3-star Refrigerator with Twin Inverter Compressor and low carbon cooling",
+    "category": "electronics",
+    "price": 49299.00,
+    "ecoscore": 3.0
+  },
+  {
+    "id": 22,
+    "name": "Panasonic 307L Eco Navi Double Door Refrigerator",
+    "description": "EcoNavi sensors with intelligent inverter technology and RoHS compliant",
+    "category": "electronics",
+    "price": 46290.30,
+    "ecoscore": 38.0
+  },
+  {
+    "id": 23,
+    "name": "Bosch 559L Frost-Free Side-by-Side Refrigerator",
+    "description": "Large capacity inverter Refrigerator with VarioInverter and recyclable materials",
+    "category": "electronics",
+    "price": 82990.75,
+    "ecoscore": 88.0
+  },
+  {
+    "id": 24,
+    "name": "Samsung 700L Family Hub Wi-Fi Refrigerator",
+    "description": "Smart touchscreen Refrigerator with high recycled content and low VOC interior",
+    "category": "electronics",
+    "price": 85990.10,
+    "ecoscore": 27.0
+  },
+  {
+    "id": 25,
+    "name": "Hitachi 451L Eco Thermo-Sensor Refrigerator",
+    "description": "Energy-saving sensor-based Refrigerator with auto energy saver mode",
+    "category": "electronics",
+    "price": 62875.00,
+    "ecoscore": 42.0
+  },
+  {
+    "id": 26,
+    "name": "Voltas Beko 240L 2-Star Refrigerator",
+    "description": "Refrigerator with ProSmart inverter compressor and cyclopentane insulation",
+    "category": "electronics",
+    "price": 33999.49,
+    "ecoscore": 33.0
+  },
+  {
+    "id": 27,
+    "name": "LG 687L InstaView Door-in-Door Refrigerator",
+    "description": "Knock-on glass Refrigerator with efficient cooling and eco-conscious packaging",
+    "category": "electronics",
+    "price": 89900.89,
+    "ecoscore": 37.0
+  },
+  {
+    "id": 1,
+    "name": "Soham Gendu AC",
+    "description": "bhadwa AC",
+    "category": "electronics",
+    "price": 12.00,
+    "ecoscore": 11.42
+  },
+  {
+    "id": 2,
+    "name": "Voltas AC",
+    "description": "bhadiya AC",
+    "category": "electronics",
+    "price": 20000.00,
+    "ecoscore": 78.56
+  },
+  {
+    "id": 37,
+    "name": "Dell XPS 13 Plus Laptop",
+    "description": "13-inch ultra-thin laptop with energy-efficient OLED and recycled aluminum",
+    "category": "electronics",
+    "price": 125499.00,
+    "ecoscore": 34.0
+  },
+  {
+    "id": 38,
+    "name": "HP Spectre x360 Laptop",
+    "description": "Convertible laptop with EPEAT Gold certification and RoHS-compliant parts",
+    "category": "electronics",
+    "price": 118200.25,
+    "ecoscore": 60.0
+  },
+  {
+    "id": 4,
+    "name": "Sony Bravia XR A95L 65-Inch OLED",
+    "description": "65-inch OLED with Cognitive Processor XR and ultra-low VOC build",
+    "category": "electronics",
+    "price": 86644.02,
+    "ecoscore": 4.0
+  },
+  {
+    "id": 5,
+    "name": "TCL 6-Series 55-Inch QLED Roku TV",
+    "description": "QLED panel with Roku OS and recyclable frame design",
+    "category": "electronics",
+    "price": 91757.40,
+    "ecoscore": 53.0
+  },
+  {
+    "id": 6,
+    "name": "Hisense U8K 65-Inch Mini-LED TV",
+    "description": "Mini-LED Smart TV with energy-saving processor and RoHS compliant",
+    "category": "electronics",
+    "price": 45440.70,
+    "ecoscore": 40.0
+  },
+  {
+    "id": 7,
+    "name": "Vizio M-Series 50-Inch 4K Smart TV",
+    "description": "Affordable 4K HDR TV with low carbon footprint and recycled plastic build",
+    "category": "electronics",
+    "price": 83462.28,
+    "ecoscore": 28.0
+  },
+  {
+    "id": 8,
+    "name": "Panasonic JX850 58-Inch 4K Smart TV",
+    "description": "Energy-efficient smart TV with adaptive dimming and EPEAT registered",
+    "category": "electronics",
+    "price": 136934.00,
+    "ecoscore": 29.0
+  },
+  {
+    "id": 9,
+    "name": "Philips 8000 Series 70-Inch Android TV",
+    "description": "70-inch large screen Android TV with low VOC and sustainable packaging",
+    "category": "electronics",
+    "price": 70283.20,
+    "ecoscore": 65.0
+  },
+  {
+    "id": 10,
+    "name": "Sharp Aquos 55-Inch 4K UHD TV",
+    "description": "Smart LED TV with HDR10+ and high recycled content design",
+    "category": "electronics",
+    "price": 110868.30,
+    "ecoscore": 47.0
+  },
+  {
+    "id": 11,
+    "name": "Toshiba Fire TV 43-Inch Smart 4K",
+    "description": "Smart 4K TV with Fire OS and low energy panel for compact spaces",
+    "category": "electronics",
+    "price": 72475.49,
+    "ecoscore": 25.0
+  },
+  {
+    "id": 12,
+    "name": "OnePlus U1S 65-Inch LED Android TV",
+    "description": "AI-powered Android TV with carbon-conscious design and RoHS compliant",
+    "category": "electronics",
+    "price": 135765.00,
+    "ecoscore": 42.0
+  },
+  {
+    "id": 13,
+    "name": "Mi Q1 75-Inch QLED TV",
+    "description": "Large QLED TV with Android interface and energy-efficient panel",
+    "category": "electronics",
+    "price": 151763.90,
+    "ecoscore": 37.0
+  },
+  {
+    "id": 14,
+    "name": "Realme Smart TV X 43-Inch FHD",
+    "description": "Full HD budget smart TV with low power consumption",
+    "category": "electronics",
+    "price": 140432.60,
+    "ecoscore": 69.0
+  },
+  {
+    "id": 15,
+    "name": "Sony X80J 55-Inch 4K Ultra HD TV",
+    "description": "4K HDR processor X1 powered TV with recycled packaging materials",
+    "category": "electronics",
+    "price": 58480.52,
+    "ecoscore": 79.0
+  },
+  {
+    "id": 16,
+    "name": "Samsung The Frame 50-Inch Art Mode TV",
+    "description": "Art-style smart display with motion sensor and RoHS + Energy Star certified",
+    "category": "electronics",
+    "price": 24672.28,
+    "ecoscore": 12.0
+  },
+  {
+    "id": 28,
+    "name": "Whirlpool 215L Direct-Cool Refrigerator",
+    "description": "Budget-friendly Refrigerator with insulated capillary tech and RoHS build",
+    "category": "electronics",
+    "price": 22900.33,
+    "ecoscore": 0.0
+  },
+  {
+    "id": 29,
+    "name": "Samsung 523L 4-Star Inverter Refrigerator",
+    "description": "4-star Twin Cooling Plus inverter refrigerator with smart energy use",
+    "category": "electronics",
+    "price": 61777.77,
+    "ecoscore": 21.0
+  },
+  {
+    "id": 30,
+    "name": "Haier 195L Direct Cool Single Door Refrigerator",
+    "description": "Eco-friendly Refrigerator with diamond edge freezing and 5-in-1 convertible mode",
+    "category": "electronics",
+    "price": 18349.88,
+    "ecoscore": 57.0
+  },
+  {
+    "id": 31,
+    "name": "Panasonic 601L Prime+ Edition Refrigerator",
+    "description": "Advanced refrigerator with AG clean tech and sustainable refrigerant gas",
+    "category": "electronics",
+    "price": 77400.55,
+    "ecoscore": 41.0
+  },
+  {
+    "id": 32,
+    "name": "Bosch 288L VitaFresh Refrigerator",
+    "description": "Smart inverter refrigerator with VitaFresh box and EPEAT compliance",
+    "category": "electronics",
+    "price": 41899.99,
+    "ecoscore": 75.0
+  },
+  {
+    "id": 33,
+    "name": "Godrej 190L Direct Cool Refrigerator",
+    "description": "Eco-certified Refrigerator with inverter compressor and low power use",
+    "category": "electronics",
+    "price": 21100.20,
+    "ecoscore": 14.0
+  },
+  {
+    "id": 34,
+    "name": "Hitachi 638L Side-by-Side Refrigerator",
+    "description": "Eco thermo-sensor Refrigerator with inverter X Dual Fan Cooling",
+    "category": "electronics",
+    "price": 80999.15,
+    "ecoscore": 0.0
+  },
+  {
+    "id": 35,
+    "name": "Voltas Beko 305L Convertible Refrigerator",
+    "description": "Convertible bottom mount Refrigerator with active fresh blue light",
+    "category": "electronics",
+    "price": 39750.40,
+    "ecoscore": 15.0
+  },
+  {
+    "id": 36,
+    "name": "LG 260L DoorCooling+ Refrigerator",
+    "description": "Uniform cooling Refrigerator with Smart Diagnosis and RoHS compliance",
+    "category": "electronics",
+    "price": 40990.65,
+    "ecoscore": 50.0
+  },
+  {
+    "id": 39,
+    "name": "Apple MacBook Air M2 Laptop",
+    "description": "Fanless laptop with Apple Silicon chip and sustainable aluminum build",
+    "category": "electronics",
+    "price": 99999.00,
+    "ecoscore": 0.0
+  },
+  {
+    "id": 40,
+    "name": "ElectroLux AC",
+    "description": "yyfvik",
+    "category": "electronics",
+    "price": 20000.00,
+    "ecoscore": 48.38
+  }
+]

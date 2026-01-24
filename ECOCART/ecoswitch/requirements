@@ -1,0 +1,13 @@
+# requirements.txt (Final Version)
+
+# For the web server and handling cross-origin requests
+flask
+flask-cors
+
+# For reading the JSON data file in the build script
+pandas
+
+# Core LangChain libraries and the specific integrations we use
+langchain-community
+langchain-chroma
+langchain-core
