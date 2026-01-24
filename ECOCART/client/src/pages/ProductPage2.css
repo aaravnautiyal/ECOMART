@@ -1,0 +1,92 @@
+.eco-navbar {
+	background: linear-gradient(to right, #e0f2f1, #e8f5e9);
+	border-bottom: 1px solid #c1e1c1;
+	font-family: "Segoe UI", sans-serif;
+	max-width: 95%;
+	margin: auto;
+	border-radius: 12px;
+}
+
+.eco-brand-heading {
+	background-color: #dcedc8;
+	font-family: "Segoe UI", sans-serif;
+	border-bottom: 1px solid #c1e1c1;
+}
+
+.eco-brand-heading h1 {
+	color: #1b4332;
+	margin: 0;
+}
+.img_card {
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  /* width: 400px; */
+}
+
+.img_card img {
+  max-height: 100%;
+  width: 100%;
+  object-fit: fill;
+}
+
+.score-box p {
+	color: #1b5e20;
+	font-size: 1rem;
+	font-weight: 600;
+}
+
+.score-value {
+	color: #2e7d32;
+	font-size: 1.1rem;
+}
+
+.score-box small {
+	font-size: 0.75rem;
+	color: #558b2f;
+}
+
+.cart-icon a,
+.login-icon a {
+	text-decoration: none;
+	transition: transform 0.2s;
+}
+
+.cart-icon a:hover,
+.login-icon a:hover {
+	transform: scale(1.1);
+}
+
+.search-bar input {
+	width: 300px;
+	border-radius: 8px;
+	padding: 6px 12px;
+	border: 1px solid #a5d6a7;
+	transition: box-shadow 0.2s;
+}
+
+.search-bar input:focus {
+	outline: none;
+	box-shadow: 0 0 4px 2px #a5d6a7;
+	border-color: #66bb6a;
+}
+
+.eco-navbar {
+  background-color: #f5fdf4;
+  width: 100%;
+}
+
+.eco-brand-heading h1 {
+  color: #1a7f37;
+}
+
+.score-box {
+  min-width: 160px;
+}
+
+.score-value {
+  color: #198754;
+  font-weight: bold;
+}

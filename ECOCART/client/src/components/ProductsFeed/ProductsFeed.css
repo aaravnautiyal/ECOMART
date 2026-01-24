@@ -1,0 +1,113 @@
+.product-feed {
+	max-width: 95%;
+	margin: 40px auto;
+	font-family: "Segoe UI", sans-serif;
+}
+
+.product-feed h1 {
+	font-weight: 700;
+	font-size: 2.5rem;
+	color: #1b4332;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.product-feed h2 {
+	font-weight: 700;
+	font-size: 1.8rem;
+	color: #2e7d32;
+	margin-bottom: 1.5rem;
+	text-align: center;
+}
+
+.product-feed .row > div {
+	flex: 1 1 calc(33.333% - 20px);
+	margin: 10px;
+	box-sizing: border-box;
+}
+.product-feed .row > div:nth-child(odd) {
+	margin-right: 0;
+}
+.product-feed .row > div:nth-child(even) {
+	margin-left: 0;
+}
+.product-feed .row {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.product-card {
+	transition: transform 0.2s ease, box-shadow 0.2s ease;
+	border-radius: 12px;
+	overflow: hidden;
+	border: 1px solid #e0f2f1;
+	background-color: #ffffff;
+	height: 100%;
+}
+
+.product-card:hover {
+	transform: translateY(-5px);
+	box-shadow: 0 8px 20px rgba(0, 128, 0, 0.12);
+}
+
+.product-card .card-header {
+	background-color: #e8f5e9;
+	color: #1b4332;
+	font-weight: 600;
+	font-size: 1.2rem;
+	text-align: center;
+	padding: 12px;
+	border-bottom: 1px solid #c8e6c9;
+}
+.product-img {
+	height: 200px;
+	width: 100%;
+	object-fit: cover;
+	border-bottom: 1px solid #c8e6c9;
+}
+
+.product-card .card-footer {
+	background-color: #f1f8e9;
+	border-top: 1px solid #c8e6c9;
+	text-align: center;
+	padding: 12px;
+}
+.card-body {
+	padding: 16px;
+}
+
+.card-title {
+	font-size: 1.1rem;
+	color: #1b4332;
+	margin-bottom: 0.5rem;
+}
+
+.card-text {
+	margin-bottom: 0.3rem;
+}
+
+.card-text.text-success {
+	font-weight: 600;
+	font-size: 1.1rem;
+}
+
+.eco-score {
+	font-size: 0.9rem;
+	color: #43a047;
+	font-weight: 500;
+}
+.wishlist-btn {
+	background: none;
+	color: #888;
+	border: none;
+	font-size: 1.2rem;
+	transition: color 0.2s;
+}
+
+.wishlist-btn.active {
+	color: red;
+}
+
+.wishlist-btn:hover {
+	transform: scale(1.1);
+}

@@ -1,0 +1,33 @@
+.carousel-inner {
+	min-height: 220px;
+}
+
+.offer-slide {
+	height: 100%;
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+	border-radius: 16px;
+}
+
+.bg-offer-1 {
+	background-color: #388e3c;
+}
+
+.bg-offer-2 {
+	background-color: #2e7d32;
+}
+
+.bg-offer-3 {
+	background-color: #4caf50;
+}
+
+.offer-slide h2 {
+	font-size: 1.8rem;
+	font-weight: 700;
+}
+
+.offer-slide p {
+	font-size: 1.1rem;
+	font-weight: 500;
+}

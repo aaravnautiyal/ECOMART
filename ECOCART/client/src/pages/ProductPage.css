@@ -1,0 +1,26 @@
+/* src/pages/ProductPage.css */
+
+.product-page {
+  background-color: #f9fdf9;
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+.product-image {
+  max-height: 400px;
+  object-fit: contain;
+  border: 1px solid #dee2e6;
+  padding: 1rem;
+  background: white;
+  border-radius: 0.5rem;
+}
+
+.badge {
+  font-size: 1rem;
+  padding: 0.5em 1em;
+}
+
+.btn-success {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
